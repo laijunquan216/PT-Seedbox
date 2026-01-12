@@ -44,6 +44,11 @@ bash <(wget -qO- https://s.v1v1.de/seedbox) \
   -d "data.zip 直链" -k "解压密码(可选)"
 ```
 
+### 注：如遇网络问题，可将短链替换回RAW
+```bash
+https://raw.githubusercontent.com/vivibudong/PT-Seedbox/refs/heads/main/qb_fb_vertex_installer.sh
+```
+
 ## 支持系统
 
 - Debian 10+
@@ -132,6 +137,7 @@ For issues or suggestions, open an issue on GitHub or reach out via email: budon
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=vivibudong/PT-Seedbox&type=date&legend=top-left)](https://www.star-history.com/#vivibudong/PT-Seedbox&type=date&legend=top-left)
+
 
 
 
